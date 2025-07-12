@@ -1,6 +1,7 @@
 public class stage {
     public static void main(String[] args) {
-        System.out.println("\nSystem Start!\nCreated by Midobako.  (Version 1.00.02)\n\n");
+        //動作確認、製作者、バージョンを表示
+        System.out.println("\nSystem Start!\nCreated by Midobako.  (Version 1.00)\n\n");
         
 
         //残りコース数
@@ -75,7 +76,7 @@ public class stage {
 
 
 
-        //
+        //結果を表示するやつ
         System.out.println("-Result-\n\n"+stage[r]+"\nがんばれ～\n\n\n");
     }
 }
